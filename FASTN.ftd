@@ -3,6 +3,5 @@
 -- fastn.package: fifthtry.github.io/sailing-shark-typography
 download-base-url: https://raw.githubusercontent.com/fifthtry/sailing-shark-typography/main
 
--- fastn.dependency: fifthtry.github.io/doc-site as ds
+-- fastn.dependency: fifthtry.github.io/lato-font
 
--- fastn.auto-import: ds
